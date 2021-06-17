@@ -1,8 +1,8 @@
 # Olá caro visitante, seja vindo ao meu github. 👋
 ## Me chamo Victor Soares, sou técnico em informática e atualmente estou cursando Sistemas de informação na Universidade Federal do Ceará .
-<div align="left" display="inline">
-<img height="170em"  src="https://github-readme-stats.vercel.app/api?username=soaresWT&show_icons=true&theme=radical&include_all_commits=true&count_private=true " />
-<img height="170em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaresWT&layout=compact&theme=radical " />
+<div align="center" display="inline">
+<img    src="https://github-readme-stats.vercel.app/api?username=soaresWT&show_icons=true&theme=radical&include_all_commits=true&count_private=true " />
+<img    src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaresWT&layout=compact&theme=radical " />
 </div>
 
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
