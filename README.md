@@ -8,7 +8,8 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaresWT&layout=compact&theme=radical"/>
 </div>
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 * Sou entusiata de tecnologia, desde: programação, hardware, astronomia e afins.
 * Atualmente estou dedicado em projetos pessoais e na grande curricular da faculdade.
