@@ -2,7 +2,7 @@
 ## Me chamo Victor Soares, sou técnico em informática e atualmente estou cursando Sistemas de informação na Universidade Federal do Ceará .
 <div align="center" display="inline">
 
- ![Snake animation](https://github.com/soaresWT/soaresWT/blob/output/github-contribution-grid-snake.svg)
+
 
 * Sou entusiata de tecnologia, desde: programação, hardware, astronomia e afins.
 * Atualmente estou dedicado em projetos pessoais e na grande curricular da faculdade.
